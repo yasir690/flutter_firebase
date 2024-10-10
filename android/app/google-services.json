@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135656583387",
+    "project_id": "first-5444d",
+    "storage_bucket": "first-5444d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135656583387:android:8564b2d17cfe0b474c5cfe",
+        "android_client_info": {
+          "package_name": "com.example.firebasetutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiEuFkP386BKf6lJF4EwU4ygoa-1BdhBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
