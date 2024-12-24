@@ -2,9 +2,12 @@
 
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebasetutorial/checkuser.dart';
+import 'package:firebasetutorial/forgetpassword.dart';
+import 'package:firebasetutorial/home.dart';
 import 'package:firebasetutorial/imageupload.dart';
 import 'package:firebasetutorial/insertdata.dart';
 import 'package:firebasetutorial/login.dart';
+import 'package:firebasetutorial/singup.dart';
 import 'package:firebasetutorial/user.dart';
 import 'package:flutter/material.dart';
 
@@ -20,7 +23,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: InsertData(),
+      home: ImageUploadWidget(),
+      // home:ImageUploadWidget(),
       debugShowCheckedModeBanner: false,
     );
   }
